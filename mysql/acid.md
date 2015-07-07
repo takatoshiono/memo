@@ -13,15 +13,15 @@ Wikipediaの「よく知られている業績」に書いてある
 
 ## Jim Gray の著書
 
-### [Transaction Processing: Concepts and Techniques (The Morgan Kaufmann Series in Data Management Systems)](http://www.amazon.co.jp/Transaction-Processing-Concepts-Techniques-Management/dp/1558601902/ref=sr_1_3?s=english-books&ie=UTF8&qid=1435875006&sr=1-3&keywords=jim+gray)
+[Transaction Processing: Concepts and Techniques (The Morgan Kaufmann Series in Data Management Systems)](http://www.amazon.co.jp/Transaction-Processing-Concepts-Techniques-Management/dp/1558601902/ref=sr_1_3?s=english-books&ie=UTF8&qid=1435875006&sr=1-3&keywords=jim+gray)
 
 ![image](https://cloud.githubusercontent.com/assets/10000/8489074/dc600aea-2152-11e5-92ef-f89333320aaa.png)
 
-### [トランザクション処理 上](http://www.amazon.co.jp/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B6%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E5%87%A6%E7%90%86-%E4%B8%8A-%E3%82%B0%E3%83%AC%E3%82%A4-%E3%82%B8%E3%83%A0/dp/4822281027/ref=sr_1_1?s=books&ie=UTF8&qid=1435875165&sr=1-1&keywords=%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B6%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E5%87%A6%E7%90%86)
+[トランザクション処理 上](http://www.amazon.co.jp/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B6%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E5%87%A6%E7%90%86-%E4%B8%8A-%E3%82%B0%E3%83%AC%E3%82%A4-%E3%82%B8%E3%83%A0/dp/4822281027/ref=sr_1_1?s=books&ie=UTF8&qid=1435875165&sr=1-1&keywords=%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B6%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E5%87%A6%E7%90%86)
 
 ![image](https://cloud.githubusercontent.com/assets/10000/8489106/26c7ae4e-2153-11e5-8142-cff81ca6a7e1.png)
 
-### [トランザクション処理 下](http://www.amazon.co.jp/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B6%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E5%87%A6%E7%90%86-%E4%B8%8B-%E3%82%B0%E3%83%AC%E3%82%A4-%E3%82%B8%E3%83%A0/dp/4822281035/ref=asap_bc?ie=UTF8)
+[トランザクション処理 下](http://www.amazon.co.jp/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B6%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E5%87%A6%E7%90%86-%E4%B8%8B-%E3%82%B0%E3%83%AC%E3%82%A4-%E3%82%B8%E3%83%A0/dp/4822281035/ref=asap_bc?ie=UTF8)
 
 ![image](https://cloud.githubusercontent.com/assets/10000/8489111/37c9f3a0-2153-11e5-8ab9-a9e3838a1c18.png)
 
