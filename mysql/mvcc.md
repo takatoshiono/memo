@@ -23,4 +23,7 @@ Undo ログは2つに分割できる。
 
 InnoDB では SQL で行を削除してもすぐにデータベースから物理的に削除されるわけではない。削除用に書き込まれた Undo ログが破棄されたときにのみ、対応する行とインデックスレコードを物理的に削除する。このような削除操作は[パージ](http://dev.mysql.com/doc/refman/5.6/ja/glossary.html#glos_purge)と呼ばれる。非常に高速。通常は SQL と同じ時系列順で削除される。
 
+## 参考文献
+
+* [MySQL :: MySQL 5.6 リファレンスマニュアル :: 14.2.12 InnoDB マルチバージョン](http://dev.mysql.com/doc/refman/5.6/ja/innodb-multi-versioning.html)
 
