@@ -1,10 +1,10 @@
-### Running etcd
+# Running etcd
 
 とりあえずetcdを動かしたい
 
 https://github.com/etcd-io/etcd のREADMEにはpre-built release binaryを使うのが手っ取り早くて、その方法は[Releases · etcd\-io/etcd](https://github.com/etcd-io/etcd/releases)に書いてあるということなので、ここに書いてあるDockerを使って動かすことにする
 
-### Run
+## Run
 
 `--rm`オプションを付け加えた。理由は2回目の起動時にコンテナイメージの削除に失敗するため
 
@@ -70,7 +70,7 @@ Status: Downloaded newer image for gcr.io/etcd-development/etcd:v3.3.12
 2019-03-21 15:16:43.678319 N | embed: serving insecure client requests on [::]:2379, this is strongly discouraged!
 ```
 
-### Try some commands
+## Try some commands
 
 ```
 $ ./test.sh
@@ -91,7 +91,7 @@ foo
 bar
 ```
 
-### Stop
+## Stop
 
 ```
 $ docker stop etcd-gcr-v3.3.12
