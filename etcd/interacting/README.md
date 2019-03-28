@@ -12,7 +12,7 @@
 
 ## revision
 
-etcd clusterのkey-value storeに変更があるとrevisionがインクリメントされる。過去のリビジョンを指定してキーを読むことが可能
+etcd clusterのkey-value storeに変更があるとrevisionがインクリメントされる。過去のリビジョンを指定して(`--rev`)キーを読むことが可能
 
 ## watch
 
